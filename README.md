@@ -18,3 +18,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rozakassa22&show_icons=true&locale=en" alt="rozakassa22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rozakassa22&" alt="rozakassa22" /></p>
+
+
+
+
+
+## Watch my contribution graph
+
+
+
+
+![snake gif](https://github.com/rozakassa22/rozakassa22/blob/output/github-contribution-grid-snake.gif)
